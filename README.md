@@ -1,4 +1,4 @@
-# PIG-Dice-Game_JS
+#dice-game
 
 Version - 1:  app.js
 
